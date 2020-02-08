@@ -13,6 +13,7 @@ You have to align three icons in a row.
 4 | 5 | 6
 ---------
 7 | 8 | 9
+---------
 
 When your turn arrive, select a position and an icon will be written.
 
