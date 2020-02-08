@@ -9,6 +9,7 @@ We can play only 2 players. The main porpouse is playing with your friends.
 *ICONS*
 
 Player 1: *X*
+___
 Player 2: *O*
 
 ## Installation
