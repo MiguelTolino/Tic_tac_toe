@@ -19,11 +19,11 @@ When your turn arrive, select a position and an icon will be written.
 
 We can play only 2 players. The main porpouse is playing with your friends.
 
-*ICONS*
+**ICONS**
 ___
-Player 1: *X*
+Player 1: **X**
 
-Player 2: *O*
+Player 2: **O**
 
 ## Installation
 
