@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the famous game tree in a row.
+This is the famous game ***tree in a row***.
 
 ## Playability
 
