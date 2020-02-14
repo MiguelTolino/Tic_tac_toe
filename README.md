@@ -1,8 +1,8 @@
-# Three_in_a_row
+# Tic tac toe
 
 ## Description
 
-This is the famous game ***tree in a row***.
+This is the famous game ***Tic tac toe***.
 
 ## Playability
 
@@ -28,5 +28,5 @@ Player 2: **O**
 ## Installation
 
 1) Write `make`
-2) `./Tres_en_raya`
+2) `./Tic_tac_toe`
 3) Enjoy!
