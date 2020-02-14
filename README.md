@@ -30,7 +30,4 @@ Player 2: **O**
 1) Write `make`
 2) `./Tic_tac_toe`
 3) Enjoy!
-<<<<<<< HEAD
-
-=======
->>>>>>> 44a0687b848b1e49d066089ea38188462ac8f9b8
+___
