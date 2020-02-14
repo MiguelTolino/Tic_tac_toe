@@ -1,6 +1,6 @@
-NAME=	Tres_en_raya
+NAME=	Tic_tac_toe
 
-SRCS=	tres_en_raya.c
+SRCS=	tic_tac_toe.c
 
 CC          = gcc
 CFLAGS      = -Wall -Wextra -Werror
